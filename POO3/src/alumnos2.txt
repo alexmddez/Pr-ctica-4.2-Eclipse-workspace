@@ -1,0 +1,4 @@
+Juan 3
+Alex 5
+Perico 2
+Marta 8
